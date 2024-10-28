@@ -6,6 +6,7 @@ If you don't have the repo:
 
 ```bash
 git clone https://github.com/ericshively/ucicshouse.com.git
+cd ucicshouse
 ```
 
 If you don't have Node.js / NPM, you'll need to install following the instructions here depending on OS:
