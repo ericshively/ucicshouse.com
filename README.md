@@ -2,6 +2,12 @@ This is the UCI ICS House website. It's using Next.js, React.js, Typescript, Tai
 
 ## Getting Started
 
+If you don't have the repo:
+
+```bash
+git clone https://github.com/ericshively/ucicshouse.com.git
+```
+
 If you don't have Node.js / NPM, you'll need to install following the instructions here depending on OS:
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
